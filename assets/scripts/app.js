@@ -1,4 +1,4 @@
-let curent result = 0;
+let curentresult = 0;
 
 
 const userinput = 100;
